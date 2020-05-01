@@ -3,7 +3,7 @@
 
 ### Prepare mongodb database
 
-    mongo < mongodb.js
+    mongo < project3.js
     
 ### Run java program
 
